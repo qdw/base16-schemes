@@ -1,0 +1,34 @@
+scheme: "lunarpunk"
+author: "Quinn Weaver <quinn.weaver+lunarpunk@gmail.com>"
+
+# ANSI black: display as dark gray
+base00: "716f6e" # black
+base08: "716f6e" # bright black
+
+# ANSI red: display as orange
+base01: "ac4310" # red
+base09: "ac4310" # bright red
+
+# ANSI green: display as a yellowish green
+base02: "689919" # green
+base0A: "689919" # bright green
+
+# ANSI yellow: display as light pink
+base03: "a85ef4" # yellow
+base0B: "a85ef4" # bright yellow
+
+# ANSI blue: display as purple
+base04: "5132ec" # blue
+base0C: "5132ec" # bright blue
+
+# ANSI magenta: display as magenta
+base05: "b230b3" # magenta
+base0D: "b230b3" # bright magenta
+
+# ANSI cyan: display as a tealish cyan
+base06: "006d8c" # cyan
+base0E: "006d8c" # bright cyan
+
+# ANSI white: display as light gray
+base07: "7d7f74" # white
+base0F: "7d7f74" # bright white

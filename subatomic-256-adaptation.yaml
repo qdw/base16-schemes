@@ -1,0 +1,34 @@
+scheme: "subatomic-256-adaptation"
+author: "Quinn Weaver <quinn.weaver+subatomic-256-adaptation@gmail.com>"
+
+# ANSI black: display as
+base00: "" # black
+base08: "" # bright black
+
+# ANSI red: display as
+base01: "" # red
+base09: "" # bright red
+
+# ANSI green: display as
+base02: "" # green
+base0A: "" # bright green
+
+# ANSI yellow: display as
+base03: "" # yellow
+base0B: "" # bright yellow
+
+# ANSI blue: display as
+base04: "" # blue
+base0C: "" # bright blue
+
+# ANSI magenta: display as
+base05: "" # magenta
+base0D: "" # bright magenta
+
+# ANSI cyan: display as
+base06: "" # cyan
+base0E: "" # bright cyan
+
+# ANSI white: display as
+base07: "" # white
+base0F: "" # bright white
